@@ -4,7 +4,7 @@
 
 A simple and interactive Bus Ticket Counter web application built using HTML, CSS, and JavaScript. This project calculates ticket eligibility and discounts based on age and gender, providing a dynamic and user-friendly experience with popup-based results.
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 📖 Project Overview
 
@@ -24,7 +24,7 @@ This project demonstrates core JavaScript concepts including:
 
 The interface is clean, responsive, and enhanced with smooth animations for a better user experience.
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 🚀 Features
 
@@ -46,7 +46,7 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 
 • ⚡ Smooth hover effects and transitions
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 🛠️ Technologies Used
 
@@ -78,7 +78,7 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 
 • Age ≥ 9 → 50% Special Discount
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 📂 Project Structure
 
@@ -86,7 +86,7 @@ Bus-Ticket-Counter/
 │
 └── index.html   (HTML + CSS + JavaScript)
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 🎯 Learning Purpose
 
@@ -104,7 +104,7 @@ This project was built to practice:
 
 It is ideal for beginners who want to strengthen their JavaScript fundamentals.
 
-                                            _________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 🔮 Future Improvements
 
@@ -118,7 +118,7 @@ It is ideal for beginners who want to strengthen their JavaScript fundamentals.
 
 • Convert into full-stack application
 
-                                            _________________________________________________________________________________________
+ _____________________________________________________________________________________________
 
 👨‍💻 Author
 
