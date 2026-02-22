@@ -1,7 +1,10 @@
 🚌 Bus Station Ticket Counter System
+
 📌 Short Description
 
 A simple and interactive Bus Ticket Counter web application built using HTML, CSS, and JavaScript. This project calculates ticket eligibility and discounts based on age and gender, providing a dynamic and user-friendly experience with popup-based results.
+
+
 
 📖 Project Overview
 
@@ -20,6 +23,8 @@ This project demonstrates core JavaScript concepts including:
 • Dynamic Content Rendering
 
 The interface is clean, responsive, and enhanced with smooth animations for a better user experience.
+
+
 
 🚀 Features
 
@@ -41,6 +46,8 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 
 • ⚡ Smooth hover effects and transitions
 
+
+
 🛠️ Technologies Used
 
 • HTML5 – Structure of the application
@@ -50,6 +57,7 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 • JavaScript (ES6) – Business logic and interactivity
 
 🧠 Ticket Logic Summary
+
 
 👨 For Male:
 
@@ -61,6 +69,7 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 
 • Age > 65 → 30% Senior Citizen Discount
 
+
 👩 For Female:
 
 • Age ≤ 5 → Free Ride
@@ -69,11 +78,15 @@ The interface is clean, responsive, and enhanced with smooth animations for a be
 
 • Age ≥ 9 → 50% Special Discount
 
+
+
 📂 Project Structure
 
 Bus-Ticket-Counter/
 │
 └── index.html   (HTML + CSS + JavaScript)
+
+
 
 🎯 Learning Purpose
 
@@ -91,6 +104,8 @@ This project was built to practice:
 
 It is ideal for beginners who want to strengthen their JavaScript fundamentals.
 
+
+
 🔮 Future Improvements
 
 • Add ticket price calculation
@@ -102,6 +117,8 @@ It is ideal for beginners who want to strengthen their JavaScript fundamentals.
 • Generate printable ticket
 
 • Convert into full-stack application
+
+
 
 👨‍💻 Author
 
